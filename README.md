@@ -8,6 +8,9 @@ Works with devices
   
 Tested with NI VISA
 
+Currently needs this font to be installed...
+http://www.dafont.com/alarm-clock.font
+
 Only partially implemented, but functional. Early POC
 
 <b>Todo List
